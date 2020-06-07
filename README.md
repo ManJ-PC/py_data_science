@@ -69,7 +69,7 @@ If you score at least 80% then only take the **I/O on Text Files** topic. Otherw
 | Lecture Topic | Interactive Link | 
 |---|---|
 | **Introduction to Turtle** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JulesKouatchou/py_data_science/blob/master/introduction_turtle.ipynb) |
-| **A place to run the code** | <a href="https://repl.it/" target="_blank">https://repl.it/</a> |
+| **A place to run the code** | [https://repl.it/](href="https://repl.it/){:target="_blank" rel="noopener"} |
 
 ### <span style="color: red">Data Science Tools</span>
 
